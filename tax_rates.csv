@@ -1,5 +1,4 @@
 Country Code,State Code,Postcode,City,Rate %,Tax Name,Priority,Compound,Shipping,Tax Class
-GB,*,*,*,20.0000,VAT,1,0,1,
 AL,*,*,*,20.0000,VAT,1,0,1,
 AD,*,*,*,20.0000,VAT,1,0,1,
 AM,*,*,*,20.0000,VAT,1,0,1,
